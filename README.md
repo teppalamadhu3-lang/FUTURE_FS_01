@@ -1,27 +1,64 @@
-# Task 1 - Portfolio Website
+# 🚀 Task 1 - Portfolio Website
 
-## 📌 Project Description
-This is a personal portfolio website built using HTML, CSS, and JavaScript.  
-It displays my skills, projects, and contact details in a clean and responsive layout.
+## 📌 Project Overview
+This is my personal portfolio website built as part of the **Future Interns Full Stack Web Development Task 1**.
 
-## 🚀 Features
-- Responsive design
-- Smooth scrolling
-- About section
-- Projects section
-- Contact section
+It showcases my skills, projects, and contact details in a clean and responsive layout using HTML, CSS, and JavaScript.
+
+---
 
 ## 🌐 Live Demo
-https://your-live-link-here
+👉 https://teppalamadhu3-lang.github.io/FUTURE_FS_01/
+
+---
+
+## 💻 GitHub Repository
+👉 https://github.com/teppalamadhu3-lang/FUTURE_FS_01
+
+---
 
 ## 🛠️ Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## 📂 How to Run
-1. Download or clone the repository
-2. Open `index.html` in your browser
+---
 
-## 📌 Author
-Your Name
+## ✨ Features
+- Responsive design (mobile + desktop)
+- Smooth scrolling navigation
+- About section
+- Projects showcase
+- Contact section
+
+---
+
+## 📂 Project Structure
+```
+FUTURE_FS_01/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+---
+
+## 🚀 How to Run This Project
+1. Clone the repository:
+   ```
+   git clone https://github.com/teppalamadhu3-lang/FUTURE_FS_01.git
+   ```
+2. Open the folder
+3. Open `index.html` in your browser
+
+---
+
+## 👨‍💻 Author
+Teppala Madhu
+
+---
+
+## 📌 Note
+This project was created for internship submission and learning full-stack web development basics.
